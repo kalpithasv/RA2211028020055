@@ -33,7 +33,8 @@ A simple web application that displays **trending posts** and **top users** base
    Open **[localhost:3000](http://localhost:3000)** in your browser.
 
 ## 📸 Screenshots
+
 | Home Page | Error Page | Trending Posts |
 |-----------|-----------|---------------|
-| ![Home](screenshots/home.png) | ![Error](screenshots/top
-.png) | ![Trending](screenshots/trending.png) |
+| ![Home](screenshots/home.png) | ![Error](screenshots/top.png) | ![Trending](screenshots/trending.png) |
+
