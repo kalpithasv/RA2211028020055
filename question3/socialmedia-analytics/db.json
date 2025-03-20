@@ -1,0 +1,27 @@
+{
+    "trending": [
+      {
+        "id": 1,
+        "title": "Trending Post 1",
+        "content": "This is trending!"
+      },
+      {
+        "id": 2,
+        "title": "Trending Post 2",
+        "content": "Wow, so many likes!"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "followers": 500
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "followers": 750
+      }
+    ]
+  }
+  
