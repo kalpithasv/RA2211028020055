@@ -1,4 +1,6 @@
 import "./style.css";
+import "./index.css";
+
 
 document.addEventListener("DOMContentLoaded", () => {
     const analyticsDiv = document.getElementById("analytics");

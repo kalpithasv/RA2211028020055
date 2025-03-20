@@ -4,6 +4,9 @@ import Navbar from "./components/Navbar";
 import Feed from "./pages/Feed";
 import TopUsers from "./pages/TopUsers";
 import TrendingPosts from "./pages/TrendingPosts";
+import "./index.css";
+import "./style.css";
+
 
 function App() {
   return (
